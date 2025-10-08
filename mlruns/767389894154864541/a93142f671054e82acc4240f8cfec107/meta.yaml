@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/mlflow-dagshub-demo/mlruns/767389894154864541/a93142f671054e82acc4240f8cfec107/artifacts
+end_time: 1759905729490
+entry_point_name: ''
+experiment_id: '767389894154864541'
+lifecycle_stage: active
+run_id: a93142f671054e82acc4240f8cfec107
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759905553859
+status: 3
+tags: []
+user_id: Akib Uddin Nayan

@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/mlflow-dagshub-demo/mlruns/767389894154864541/79bf3b7038e04213a36e45435d79c430/artifacts
+end_time: 1759905748247
+entry_point_name: ''
+experiment_id: '767389894154864541'
+lifecycle_stage: active
+run_id: 79bf3b7038e04213a36e45435d79c430
+run_name: XGBClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759905738179
+status: 3
+tags: []
+user_id: Akib Uddin Nayan

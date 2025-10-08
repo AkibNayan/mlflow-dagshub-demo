@@ -1,0 +1,10 @@
+artifact_location: file:///e:/mlflow-dagshub-demo/mlruns/767389894154864541/models/m-ede5261988ab45c0ae75e6e6d9143cbd/artifacts
+creation_timestamp: 1759905748742
+experiment_id: '767389894154864541'
+last_updated_timestamp: 1759905759143
+model_id: m-ede5261988ab45c0ae75e6e6d9143cbd
+model_type: ''
+name: model
+source_run_id: a2240ecadf3f4090ae9e31b656824482
+status: 2
+status_message: null

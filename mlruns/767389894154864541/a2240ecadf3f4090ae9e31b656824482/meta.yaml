@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/mlflow-dagshub-demo/mlruns/767389894154864541/a2240ecadf3f4090ae9e31b656824482/artifacts
+end_time: 1759905863442
+entry_point_name: ''
+experiment_id: '767389894154864541'
+lifecycle_stage: active
+run_id: a2240ecadf3f4090ae9e31b656824482
+run_name: XGBClassifier With SMOTE
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759905748345
+status: 3
+tags: []
+user_id: Akib Uddin Nayan
