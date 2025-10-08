@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/mlflow-dagshub-demo/mlruns/252790002716947956/a0189f3c28a4447e8782e98c1278d19a/artifacts
+end_time: 1759851849159
+entry_point_name: ''
+experiment_id: '252790002716947956'
+lifecycle_stage: active
+run_id: a0189f3c28a4447e8782e98c1278d19a
+run_name: adaptable-croc-929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759851840558
+status: 3
+tags: []
+user_id: Akib Uddin Nayan

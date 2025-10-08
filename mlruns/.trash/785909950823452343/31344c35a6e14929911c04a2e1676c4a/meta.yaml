@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785909950823452343/31344c35a6e14929911c04a2e1676c4a/artifacts
+deleted_time: 1759897948303
+end_time: 1759862730141
+entry_point_name: ''
+experiment_id: '785909950823452343'
+lifecycle_stage: deleted
+run_id: 31344c35a6e14929911c04a2e1676c4a
+run_name: XGBClassifier with SMOTE
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759862719968
+status: 3
+tags: []
+user_id: Akib Uddin Nayan

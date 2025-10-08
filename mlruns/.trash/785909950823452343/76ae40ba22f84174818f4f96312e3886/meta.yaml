@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785909950823452343/76ae40ba22f84174818f4f96312e3886/artifacts
+deleted_time: 1759897948303
+end_time: 1759862719851
+entry_point_name: ''
+experiment_id: '785909950823452343'
+lifecycle_stage: deleted
+run_id: 76ae40ba22f84174818f4f96312e3886
+run_name: XGBClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759862709637
+status: 3
+tags: []
+user_id: Akib Uddin Nayan

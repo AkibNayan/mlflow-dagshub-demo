@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/mlflow-dagshub-demo/mlruns/455557265481791057/d69e95e415474ce085e1dc0ac45e34cf/artifacts
+deleted_time: 1759862274781
+end_time: 1759860133094
+entry_point_name: ''
+experiment_id: '455557265481791057'
+lifecycle_stage: deleted
+run_id: d69e95e415474ce085e1dc0ac45e34cf
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759860126268
+status: 3
+tags: []
+user_id: Akib Uddin Nayan

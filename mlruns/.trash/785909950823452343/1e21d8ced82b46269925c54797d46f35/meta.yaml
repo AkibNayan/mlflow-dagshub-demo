@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785909950823452343/1e21d8ced82b46269925c54797d46f35/artifacts
+deleted_time: 1759897948303
+end_time: 1759897894272
+entry_point_name: ''
+experiment_id: '785909950823452343'
+lifecycle_stage: deleted
+run_id: 1e21d8ced82b46269925c54797d46f35
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759897882602
+status: 3
+tags: []
+user_id: Akib Uddin Nayan

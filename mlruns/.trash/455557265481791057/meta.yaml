@@ -1,0 +1,8 @@
+artifact_location: file:///e:/mlflow-dagshub-demo/mlruns/455557265481791057
+creation_time: 1759860114995
+experiment_id: '455557265481791057'
+last_update_time: 1759862274781
+lifecycle_stage: deleted
+name: Anomaly Detection
+tags:
+  mlflow.experimentKind: custom_model_development

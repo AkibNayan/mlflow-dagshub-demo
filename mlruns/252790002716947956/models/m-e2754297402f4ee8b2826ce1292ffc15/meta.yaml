@@ -1,0 +1,10 @@
+artifact_location: file:///e:/mlflow-dagshub-demo/mlruns/252790002716947956/models/m-e2754297402f4ee8b2826ce1292ffc15/artifacts
+creation_timestamp: 1759851840821
+experiment_id: '252790002716947956'
+last_updated_timestamp: 1759851849136
+model_id: m-e2754297402f4ee8b2826ce1292ffc15
+model_type: ''
+name: Logistic Regression
+source_run_id: a0189f3c28a4447e8782e98c1278d19a
+status: 2
+status_message: null

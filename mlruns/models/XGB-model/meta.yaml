@@ -1,0 +1,8 @@
+aliases:
+  challenger: '3'
+creation_timestamp: 1759898035780
+deployment_job_id: null
+deployment_job_state: null
+description: The model was trained on an oversampled dataset
+last_updated_timestamp: 1759899905981
+name: XGB-model

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785909950823452343/177d672961c142f9bad2bd81ff7808b8/artifacts
+deleted_time: 1759897948303
+end_time: 1759897900208
+entry_point_name: ''
+experiment_id: '785909950823452343'
+lifecycle_stage: deleted
+run_id: 177d672961c142f9bad2bd81ff7808b8
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759897894337
+status: 3
+tags: []
+user_id: Akib Uddin Nayan
